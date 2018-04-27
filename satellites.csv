@@ -1,0 +1,7 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+,ISS-1,145.8,-,0.6,,88.5,88.5,23,NN,FM,5,,ISS Voice ITU Region 1,,,,
+,ISS-23,145.8,-,1.31,,88.5,88.5,23,NN,FM,5,,ISS Voice ITU Region 2&3,,,,
+,ISS-U,145.8,split,437.8,,88.5,88.5,23,NN,FM,5,,ISS Repeater,,,,
+,ISS-P,145.825,,0,,88.5,88.5,23,NN,FM,5,,ISS Packet Radio,,,,
+,ISS-V1,143.625,,0,,88.5,88.5,23,NN,FM,5,,ISS VHF-1,,,,
+,ISS-V2,130.167,,0,,88.5,88.5,23,NN,FM,5,,ISS VHF-2,,,,
