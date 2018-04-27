@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+2,HAIK,438.575,-,8.2,Tone,123,88.5,23,NN,FM,5,,海口,,,,
+3,SANY-V,144.1,+,3.875,Tone,88.5,88.5,23,NN,FM,5,,三亚,,,,
+4,SANY-U,439.075,-,7.6,Tone,110.9,88.5,23,NN,FM,5,,三亚,,,,
