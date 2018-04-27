@@ -3,7 +3,6 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 3,APRS-CN,144.64,,0,,88.5,88.5,23,NN,FM,5,,China,,,,
 4,APRS-EU,144.8,,0,,88.5,88.5,23,NN,FM,5,,Europe,,,,
 5,APRS-JP,144.64,,0,,88.5,88.5,23,NN,FM,5,,Japan,,,,
-6,APRS-JS,144.64,,0,,88.5,88.5,23,NN,FM,5,,Jiangsu,,,,
 7,APRS-NA,144.39,,0,,88.5,88.5,23,NN,FM,5,,North American,,,,
 8,APRS-NZ,144.575,,0,,88.5,88.5,23,NN,FM,5,,New Zealand,,,,
 9,APRS-SA,144.93,,0,,88.5,88.5,23,NN,FM,5,,South American,,,,
