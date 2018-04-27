@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-2,SH-1,437.2875,-,6.875,Tone,97.4,88.5,23,NN,FM,5,,上海,,,,
-3,SH-2,434.75,-,5,Tone,77,88.5,23,NN,FM,5,,上海,,,,
-4,SH-3,438.5,-,7,Tone,94.8,88.5,23,NN,FM,5,,上海,,,,
-4,SH-3,439.325,-,9,Tone,82.5,88.5,23,NN,FM,5,,浦东新港,,,,
+2,SH-1,437.2875,-,6.875,Tone,97.4,88.5,23,NN,FM,5,,涓婃捣,,,,
+3,SH-2,434.75,-,5,Tone,77,88.5,23,NN,FM,5,,涓婃捣,,,,
+4,SH-3,438.5,-,7,Tone,94.8,88.5,23,NN,FM,5,,涓婃捣,,,,
+4,SH-3,439.325,-,9,Tone,82.5,88.5,23,NN,FM,5,,娴︿笢鏂版腐,,,,
