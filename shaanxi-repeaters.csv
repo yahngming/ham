@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+2,XIAN-1,145.425,-,0.6,Tone,88.5,88.5,23,NN,FM,5,,西安,,,,
+3,XIAN-2,147.92,-,3.8,Tone,88.5,88.5,23,NN,FM,5,,西安,,,,
+4,XIAN-3,439.4,-,9,Tone,88.5,88.5,23,NN,FM,5,,西安,,,,
+5,XIAN-4,438.5,,0,,88.5,88.5,23,NN,FM,5,,西安,,,,
+6,BAOJI-V,147.95,-,3.8,Tone,88.5,88.5,23,NN,FM,5,,宝鸡,,,,
+7,BAOJI-U,439.85,-,6.2,Tone,88.5,88.5,23,NN,FM,5,,宝鸡,,,,
+8,XIANY,438.5,,0,,88.5,88.5,23,NN,FM,5,,咸阳,,,,
+9,HANZH,438.11,-,5,Tone,67,88.5,23,NN,FM,5,,汉中,,,,

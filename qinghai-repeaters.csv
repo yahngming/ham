@@ -1,2 +1,3 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-2,TIBET,439.887,-,9,Tone,88.5,88.5,23,NN,FM,5,,Tibet,,,,
+2,XINING,147.97,-,3.8,,88.5,88.5,23,NN,FM,5,,西宁,,,,
+3,GOLMUD,147.95,-,3.8,Tone,88.5,88.5,23,NN,FM,5,,格尔木,,,,

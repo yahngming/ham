@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-2,BEIJ-1,145.1,,0,,88.5,88.5,23,NN,FM,5,,北京,,,,
+2,BEIJ-V,145.1,,0,,88.5,88.5,23,NN,FM,5,,北京,,,,
 3,BEIJ-2,434.75,,0,,88.5,88.5,23,NN,FM,5,,北京,,,,
 4,BEIJ-3,438.5,,0,,88.5,88.5,23,NN,FM,5,,北京,,,,
 5,BEIJ-4,439.75,,0,,88.5,88.5,23,NN,FM,5,,北京,,,,
