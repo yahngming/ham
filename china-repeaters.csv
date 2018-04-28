@@ -71,7 +71,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 71,SHH-3,438.5,-,7,Tone,94.8,88.5,23,NN,FM,5,,上海,,,,
 72,SHH-3,439.325,-,9,Tone,82.5,88.5,23,NN,FM,5,,浦东新港,,,,
 73,TIANTAI,439.85,-,5,Tone,88.5,88.5,23,NN,FM,5,,天台,,,,
-74,TIBET,439.887,-,9,Tone,88.5,88.5,23,NN,FM,5,,Tibet,,,,
+74,TIBET,439.887,-,9,Tone,88.5,88.5,23,NN,FM,5,,西藏,,,,
 75,TONGL,439.6,-,5,Tone,88.5,88.5,23,NN,FM,5,,通辽,,,,
 76,URUMQ-1,144.7,-,0.6,Tone,250.3,88.5,23,NN,FM,5,,乌鲁木齐,,,,
 77,URUMQ-2,144.7,,0,,88.5,88.5,23,NN,FM,5,,乌鲁木齐,,,,
