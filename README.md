@@ -4,6 +4,7 @@
 
 * [APRS.csv](APRS.csv) - 全球APRS频点
 * [satellites.csv](satellites.csv) - 卫星
+* [china-repeaters.csv](china-repeaters.csv) - 全国中继合并列表
 * [beijing-repeaters.csv](beijing-repeaters.csv) - 北京中继列表
 * [fujian-repeaters.csv](fujian-repeaters.csv) - 福建中继列表
 * [hainan-repeaters.csv](hainan-repeaters.csv) - 海南中继列表
