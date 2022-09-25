@@ -17,4 +17,7 @@
 * [xizang-repeaters.csv](xizang-repeaters.csv) - 西藏中继列表
 * [yunnan-repeaters.csv](yunnan-repeaters.csv) - 云南中继列表
 * [zhejiang-repeaters.csv](zhejiang-repeaters.csv) - 浙江中继列表
-* [frequency_manager_config.json](frequency_manager_config.json) - SDR频道列表
+
+### 配置文件 - 用于SDR++
+
+* [frequency_manager_config.json](frequency_manager_config.json) - 频道列表
