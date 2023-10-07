@@ -21,3 +21,7 @@
 ### 配置文件 - 用于SDR++
 
 * [frequency_manager_config.json](frequency_manager_config.json) - 频道列表
+
+### 配置文件 - 用于SDRangel
+
+* [sdrangel.reg](sdrangel.reg) - Windows客户端设置
